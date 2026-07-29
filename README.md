@@ -120,15 +120,15 @@ js/app.js
 
 ### Registro de Usuario
 
-<img src="images/registro.png" width="700">
+<img src="Images/registro.png" width="700">
 
 ### Inicio de Sesión
 
-<img src="images/login.png" width="700">
+<img src="Images/login.png" width="700">
 
 ### Dashboard
 
-<img src="images/dashboard.png" width="700">
+<img src="Images/dashboard.png" width="700">
 ---
 
 ## 📚 Conceptos Aprendidos
