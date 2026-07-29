@@ -26,14 +26,14 @@ El objetivo principal es comprender el funcionamiento de una plataforma **Backen
 
 ## 👨‍🎓 Información del Estudiante
 
-| Campo              | Información |
-| ------------------ | ----------- |
-| Nombre(s)          |             |
-| Apellido(s)        |             |
-| Correo Electrónico |             |
-| Asignatura         |             |
-| Docente            |             |
-| Fecha de Entrega   |             |
+| Campo              |   Información  |
+| ------------------ |   -----------  |
+| Nombre(s)          |  David Marcelo |
+| Apellido(s)        |Guzman Alvarenga|
+| Correo Electrónico |trabajodavidg@gmail.com|
+| Asignatura         |   DAA 02-2026  |
+| Docente            |CARLOS RODRIGUEZ|
+| Fecha de Entrega   |28-Julio-2026   |
 
 ---
 
