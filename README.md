@@ -120,16 +120,15 @@ js/app.js
 
 ### Registro de Usuario
 
-Agregar captura aquí.
+<img src="images/registro.png" width="700">
 
 ### Inicio de Sesión
 
-Agregar captura aquí.
+<img src="images/login.png" width="700">
 
 ### Dashboard
 
-Agregar captura aquí.
-
+<img src="images/dashboard.png" width="700">
 ---
 
 ## 📚 Conceptos Aprendidos
@@ -146,7 +145,7 @@ Agregar captura aquí.
 
 ## ✍️ Observaciones
 
-Espacio para comentarios, dificultades encontradas, mejoras implementadas o aprendizajes obtenidos durante el desarrollo del laboratorio.
+Durante el desarrollo del laboratorio aprendí a integrar Firebase Authentication en una aplicación web para registrar usuarios, iniciar sesión y proteger una página privada. La principal dificultad fue configurar correctamente Firebase y comprender cómo funciona la validación del estado de autenticación. Como mejora, se organizó el código para que fuera más claro y se verificó que solo los usuarios autenticados pudieran acceder al dashboard.
 
 ---
 
