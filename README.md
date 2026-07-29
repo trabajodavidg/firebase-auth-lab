@@ -1,22 +1,66 @@
-Laboratorio de Autenticación con Firebase
-Descripción
+Laboratorio 1: Autenticación con Firebase
 
-Este proyecto fue desarrollado como parte de un laboratorio para aprender a utilizar Firebase Authentication en una aplicación web.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Authentication](https://img.shields.io/badge/Firebase%20Authentication-Enabled-orange?style=for-the-badge)
 
-El objetivo del laboratorio fue crear un sistema básico de autenticación donde un usuario pueda registrarse, iniciar sesión, acceder a una página protegida y cerrar sesión utilizando Firebase.
+---
 
-Funcionalidades
-Registro de usuarios con correo electrónico y contraseña.
-Inicio de sesión.
-Protección de la página principal para usuarios autenticados.
-Cierre de sesión.
-Validación del estado de autenticación.
-Tecnologías utilizadas
-HTML5
-CSS3
-JavaScript (ES6 Modules)
-Firebase Authentication
-Estructura del proyecto
+## 📖 Descripción del Proyecto
+
+Este proyecto corresponde al **Laboratorio 1: Autenticación con Firebase**, desarrollado como parte de las actividades prácticas de la asignatura.
+
+La aplicación implementa un sistema básico de autenticación utilizando **Firebase Authentication**, permitiendo:
+
+* Registro de usuarios mediante correo electrónico y contraseña.
+* Inicio de sesión.
+* Gestión de sesiones.
+* Protección de páginas privadas.
+* Cierre de sesión.
+
+El objetivo principal es comprender el funcionamiento de una plataforma **Backend as a Service (BaaS)** y la integración de servicios de autenticación en aplicaciones web utilizando HTML, CSS y JavaScript.
+
+---
+
+## 👨‍🎓 Información del Estudiante
+
+| Campo              | Información |
+| ------------------ | ----------- |
+| Nombre(s)          |             |
+| Apellido(s)        |             |
+| Correo Electrónico |             |
+| Asignatura         |             |
+| Docente            |             |
+| Fecha de Entrega   |             |
+
+---
+
+## 🎯 Objetivos del Laboratorio
+
+* Comprender el concepto de Backend as a Service (BaaS).
+* Integrar Firebase en una aplicación web.
+* Implementar autenticación mediante correo electrónico y contraseña.
+* Gestionar sesiones de usuario.
+* Proteger recursos y páginas privadas.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+* HTML5
+* CSS3
+* JavaScript (ES Modules)
+* Firebase Authentication
+* Visual Studio Code
+* Live Server
+
+---
+
+## 📁 Estructura del Proyecto
+
+```text
 firebase-auth-lab/
 │
 ├── index.html
@@ -26,36 +70,86 @@ firebase-auth-lab/
 ├── css/
 │   └── styles.css
 │
-├── js/
-│   └── app.js
-│
-└── README.md
-Configuración
+└── js/
+    └── app.js
+```
 
-Para ejecutar este proyecto es necesario crear un proyecto en Firebase y habilitar el método de autenticación por Correo electrónico y contraseña.
+---
 
-Después, se debe reemplazar la configuración de Firebase en el archivo app.js por la configuración del proyecto correspondiente.
+## 🚀 Funcionalidades Implementadas
 
-Cómo ejecutar el proyecto
-Clonar el repositorio.
-git clone https://github.com/trabajodavidg/firebase-auth-lab.git
-Entrar a la carpeta del proyecto.
-cd firebase-auth-lab
-Abrir el proyecto con Visual Studio Code.
-Ejecutar un servidor local (por ejemplo, usando la extensión Live Server).
-Abrir el navegador y probar el registro, el inicio de sesión y el cierre de sesión.
-Aprendizajes
+* [ ] Registro de usuarios
+* [ ] Inicio de sesión
+* [ ] Gestión de sesión
+* [ ] Protección de páginas privadas
+* [ ] Cierre de sesión
 
-Con este laboratorio aprendí a:
+---
 
-Crear un proyecto en Firebase.
-Configurar Firebase Authentication.
-Registrar usuarios desde una aplicación web.
-Iniciar sesión utilizando Firebase.
-Proteger una página para que solo puedan acceder usuarios autenticados.
-Cerrar la sesión del usuario.
-Autor
+## 🔄 Flujo de la Aplicación
 
-David Guzman
+```text
+Registro
+    ↓
+Inicio de Sesión
+    ↓
+Dashboard
+    ↓
+Cerrar Sesión
+```
 
-GitHub: https://github.com/trabajodavidg
+---
+
+## 🔥 Configuración de Firebase
+
+El proyecto utiliza Firebase Authentication mediante el proveedor:
+
+```text
+Correo electrónico / Contraseña
+```
+
+La configuración específica del proyecto se encuentra definida en:
+
+```text
+js/app.js
+```
+
+---
+
+## 📸 Capturas de Pantalla
+
+### Registro de Usuario
+
+Agregar captura aquí.
+
+### Inicio de Sesión
+
+Agregar captura aquí.
+
+### Dashboard
+
+Agregar captura aquí.
+
+---
+
+## 📚 Conceptos Aprendidos
+
+* Firebase
+* Firebase Authentication
+* Backend as a Service (BaaS)
+* Autenticación de usuarios
+* Gestión de sesiones
+* Protección de rutas
+* Integración de APIs
+
+---
+
+## ✍️ Observaciones
+
+Espacio para comentarios, dificultades encontradas, mejoras implementadas o aprendizajes obtenidos durante el desarrollo del laboratorio.
+
+---
+
+## 📄 Licencia
+
+Proyecto desarrollado con fines académicos para prácticas de laboratorio.
